@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    char a[];
+    cout<<"Enter a word to check palindrome"<<endl;
+    cin>>a;
+    cout<<"length"<<a.length()<<endl;
+    
+
+}
