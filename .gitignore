@@ -2,8 +2,12 @@
 *.exe
 *.out
 
-# Generated output from file-I/O examples
+# Generated output from file-I/O examples and logs
+*.log
 run.log
 students.txt
+student_records.txt
 marks.csv
-
+nums.txt
+in.txt
+out.txt
